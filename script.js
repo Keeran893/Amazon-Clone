@@ -1,0 +1,18 @@
+console.log("Hello World!");
+let message;
+message = 'My First Page in JS';
+//alert(message);
+let admin;
+let name;
+name = 'John';
+admin = name;
+//alert(name);
+const planet = 'Earth';
+let currentVisitor;
+let x =5;
+x++;
+let z = x;
+//alert(x);
+let y = 0.1 + 0.2;
+console.log(y);
+isNaN(x);
